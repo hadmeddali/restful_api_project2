@@ -1,12 +1,12 @@
 {
-  "developmentPost": {
+  "development": {
     "username": "postgres",
     "password": "postgre",
-    "database": "db_api_rest2",
+    "database": "db_api_rest",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
-  "development": {
+  "development1": {
     "username": "root",
     "password": null,
     "database": "db_api_rest",
